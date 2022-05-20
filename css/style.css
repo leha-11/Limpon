@@ -1,0 +1,123 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #7581a1;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 80px;
+    font-weight: 600;
+    color: #192b59;
+}
+
+.nav {
+    font-size: 12px;
+    font-weight: 700;
+    color: #6e7ea9;
+    text-transform: uppercase;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.btn-free {
+    color: #fff;
+    font-size: 12px;
+    font-weight: 400;
+    background-color: #1085e4;
+    border-radius: 30px;
+    padding:22px 56px;
+    letter-spacing: 1.3px;
+    text-transform: uppercase;
+}
+
+.btn-primary {
+    color: #fff;
+    font-size: 12px;
+    font-weight: 700;
+    background-color: #1085e4;
+    border: 1px solid #1085e4;
+    border-radius: 30px;
+    padding:20px 40px;
+    letter-spacing: 2.4px;
+    text-transform: uppercase;
+}
+
+.btn-primary:hover {
+    color: #1085e4;
+    background-color: #fff;
+}
+
+.btn-second {
+    color: #7e8bae;
+    font-size: 12px;
+    font-weight: 700;
+    background-color: #cbdbe8;
+    border: 1px solid #cbdbe8;
+    border-radius: 30px;
+    padding:20px 40px;
+    margin-left: 15px;
+    letter-spacing: 2.4px;
+    text-transform: uppercase;
+}
+
+.btn-second:hover {
+    background-color: #fff;
+}
+
+
+.grid h2 {
+    font-size: 40px;
+    font-weight: 700;
+    color: #192b59;
+}
+
+.grid h2 span {
+    color: #1085e4;
+    font-size: 14px;
+    font-weight: 800;
+    display: block;
+}
+
+.grid-item h3 {
+    color: #192b59;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.grid-item a {
+    font-size: 14px;
+    font-weight: 600;
+    color: #1085e4;
+}
+
+.page-company {
+    background-color: #1085e4;
+    background-image: url(../img/bg_company.png);
+    background-size: cover;
+}
+
+.page-screen {
+    background-color: #edf6ff;
+    text-align: center;
+}
+
+.page-screen h2 {
+    color: #192b59;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.page-screen h2 span {
+    color: #1085e4;
+    font-size: 18px;
+    font-weight: 800;
+    display: block;
+    text-transform: uppercase;
+    line-height: 90pt;
+}
