@@ -1,0 +1,10 @@
+—сылки с урока: 
+Чhttps://codepen.io/anna_blok/pen/YxPrVE 
+Ч https://www.base64-image.de/ 
+Ч https://codepen.io/anna_blok/pen/MOmMZw 
+Ч https://codepen.io/anna_blok/pen/mqwOJd 
+Ч https://www.flaticon.com 
+Ч https://jakearchibald.github.io/svgomg/ 
+
+ƒомашнее задание: 
+Ч —тилизовать блок page-clients

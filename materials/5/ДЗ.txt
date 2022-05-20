@@ -1,0 +1,10 @@
+—сылки с урока: 
+Ч https://cdnjs.com/libraries/normalize 
+Ч https://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+Ч https://codepen.io/anna_blok/pen/BGrGJQ 
+Ч https://tpverstak.ru/seo-html-template/ 
+Ч https://pp.userapi.com/c830109/v830109382/13e819/cfhO9oTl-tI.jpg
+
+ƒомашнее задание: 
+Ч создать и установить фавиконки на сайт 
+Ч доделать разметку сайта до конца

@@ -1,0 +1,6 @@
+—сылки с урока: 
+Ч https://www.w3schools.com/jquery/ 
+Ч https://jquery.com/download/ 
+
+ƒомашнее задание: 
+Ч —тилизовать блок page-team

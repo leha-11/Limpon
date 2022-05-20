@@ -1,0 +1,20 @@
+—сылки с урока: 
+Ч https://codepen.io/html5book/pen/LRpLbk 
+Ч https://codepen.io/nazarelen/pen/JobJNy 
+Ч https://codepen.io/html5book/pen/wzKZoj 
+Ч https://codepen.io/nazarelen/pen/gbLXYK 
+Ч https://codepen.io/html5book/pen/VKvWQW 
+Чhttps://codepen.io/nazarelen/pen/vEapjj 
+Ч https://codepen.io/nazarelen/pen/EaNbLX 
+Ч https://codepen.io/nazarelen/pen/aNQNva 
+Ч https://codepen.io/nazarelen/pen/qaErzz 
+Ч https://codepen.io/html5book/pen/GjpExx 
+Ч https://codepen.io/nazarelen/pen/EjRagd 
+Ч https://codepen.io/anna_blok/pen/vWJwYQ 
+Ч https://codepen.io/html5book/pen/xEAJZg 
+Ч ѕсевдоэлементы дл€ стилизации скролл-бара https://toster.ru/q/351056 
+
+ƒомашнее задание: 
+Ч —тилизовать блок page-softwere 
+Ч ¬ставить картинку в блок page-softwere (самосто€тельно) 
+Ч —тилизовать скроллбар в блоке page-softwere-list (самосто€тельно)

@@ -1,0 +1,8 @@
+—сылки с урока: 
+Ч Placeholder https://html5.by/blog/placeholder/ 
+Ч √енератор теней https://www.cssmatic.com/box-shadow 
+
+ƒомашнее задание: 
+Ч —тилизовать форма input в поле Subscribe 
+Ч –асставить grid компоненты 
+Ч ƒостилезовать блок с грид-сеткой (самосто€тельно).

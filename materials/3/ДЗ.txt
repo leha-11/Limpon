@@ -1,0 +1,10 @@
+—сылки с урока: 
+Ч“ипы дл€ input http://htmlbook.ru/html/input/type 
+Ч јтрибуты input http://htmlbook.ru/html/input 
+Ч јтрибуты textarea http://htmlbook.ru/html/textarea 
+Ч GitHub https://github.com/ 
+Ч GitHub Desktop https://desktop.github.com/ 
+
+ƒомашнее задание: 
+Ч ѕродолжить делать разметку сайта 
+Ч —амосто€тельно сделать разметку дл€ блоков 8 и 9

@@ -1,0 +1,17 @@
+—сылки с урока: 
+Ч https://codepen.io/anna_blok/pen/PjMjWW 
+Ч https://codepen.io/anna_blok/pen/pwMwYq 
+Ч https://codepen.io/anna_blok/pen/YQmQdp 
+Ч http://flexboxfroggy.com/#ru 
+Ч http://cssgridgarden.com/#ru 
+Ч https://tpverstak.ru/flex-cheatsheet/ 
+Ч https://tpverstak.ru/grid/ 
+Ч https://youtu.be/azQRYYdKt8I 
+Ч https://www.youtube.com/watch?v=ZkYhNIxGc8k&list=PLY4rE9dstrJxI-kCaXQnqCjPy4HPNn1DG
+
+ƒомашнее задани€: 
+Ч расставить навигацию при помощи Flexbox 
+Ч стилизовать до конца заголовок h1 и h2 
+Ч сверстать блок со статистикой 
+Ч сверстать блок со скриншотом 
+Ч сверстать блок с ценами 

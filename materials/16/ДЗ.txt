@@ -1,0 +1,7 @@
+—сылки с урока: 
+Ч https://owlcarousel2.github.io/OwlCarousel2/ 
+Ч http://kenwheeler.github.io/slick/ 
+Ч https://github.com/blueimp/Gallery 
+
+ƒомашнее задание: 
+Ч ”становить и стилизовать слово Intro

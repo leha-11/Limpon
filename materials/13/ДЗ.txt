@@ -1,0 +1,8 @@
+—сылки с урока: 
+Ч https://habrahabr.ru/hub/devmail/ 
+Ч https://habr.com/post/252279/ 
+Ч http://sendhtmail.ru/ 
+Ч https://www.getresponse.ru/ 
+
+ƒомашнее задание: 
+Ч —верстать email-письмо 

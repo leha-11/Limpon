@@ -1,0 +1,6 @@
+—сылки с урока: 
+Ч Google Fonts https://fonts.google.com 
+Ч —правочник CSS свойств http://htmlbook.ru/css 
+
+ƒомашнее задание: 
+Ќачать стилизовать тексты на сайте при помощи (font-size, font-weight, color, text-transform, font-family)

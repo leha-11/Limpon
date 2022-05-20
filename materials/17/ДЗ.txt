@@ -1,0 +1,9 @@
+—сылки с урока: 
+Ч https://sass-scss.ru/guide/ 
+Ч http://koala-app.com/ 
+Ч https://github.com/oklai/koala/blob/master/Changelog.md 
+Ч http://lesscss.org/ 
+Ч http://stylus-lang.com/ 
+
+ƒомашнее задание: 
+Ч ”становить и стилизовать слово Intro
