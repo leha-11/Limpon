@@ -18,11 +18,26 @@ h1 {
 .nav {
     font-size: 12px;
     font-weight: 700;
-    color: #6e7ea9;
     text-transform: uppercase;
     list-style-type: none;
     margin: 0;
     padding: 0;
+    display: flex;
+}
+
+.page-header>h1 {
+    max-width: 540px;
+    line-height: 1.1;
+    letter-spacing: -2.5px;
+    margin-bottom: 65px;
+}
+
+.nav>li {
+    padding: 0 15px;
+}
+
+.nav-item {
+    color: #6e7ea9;
 }
 
 .btn-free {
@@ -31,8 +46,8 @@ h1 {
     font-weight: 400;
     background-color: #1085e4;
     border-radius: 30px;
-    padding:22px 56px;
-    letter-spacing: 1.3px;
+    padding:21px 54px;
+    letter-spacing: 1.4px;
     text-transform: uppercase;
 }
 
@@ -70,7 +85,6 @@ h1 {
     background-color: #fff;
 }
 
-
 .grid h2 {
     font-size: 40px;
     font-weight: 700;
@@ -96,21 +110,67 @@ h1 {
     color: #1085e4;
 }
 
+
+.page-subscribe .btn-primary {
+    font-size: 14px;
+    font-weight: 700;
+    padding: 16px 44px;
+    letter-spacing: 2.8px;
+}
+
+.wrap {
+    max-width: 1100px;
+    display: flex;
+    justify-content: center;
+}
+
+/* STAT */
+.page-stat {
+    background-color: #edf6ff;
+}
+
+.page-stat ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+/* COMPANY */
 .page-company {
     background-color: #1085e4;
     background-image: url(../img/bg_company.png);
     background-size: cover;
 }
 
+.page-company>.wrap>ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 83px 20px;
+    border: 1px solid #000;
+}
+
+.page-company>.wrap>ul>li {
+    border: 1px solid red;
+}
+
+
+/* SCREEN */
 .page-screen {
     background-color: #edf6ff;
     text-align: center;
+}
+
+.page-screen img {
+    margin-bottom: -3px;
 }
 
 .page-screen h2 {
     color: #192b59;
     font-size: 40px;
     font-weight: 600;
+    letter-spacing: -1.2px;
+    margin-bottom: 72px;
 }
 
 .page-screen h2 span {
@@ -120,4 +180,6 @@ h1 {
     display: block;
     text-transform: uppercase;
     line-height: 90pt;
+    margin: 12px;
+    letter-spacing: 3.5px;
 }
