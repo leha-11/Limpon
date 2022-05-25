@@ -110,6 +110,48 @@ h1 {
     color: #1085e4;
 }
 
+.wrap {
+    max-width: 1100px;
+    border: 1px solid red;
+    margin: 0 auto;
+}
+
+/* SUBSCRIBE */
+.page-subscribe {
+    background-color: #0a2090;
+    background: linear-gradient(to right, #0a2090, #2377cd);
+}
+
+.page-subscribe p {
+    color: #dfe8ff;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.page-subscribe h2 {
+    color: #fff;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.page-subscribe h2 span {
+    color: #00bffe;
+    font-size: 14px;
+    font-weight: 800;
+    text-transform: uppercase;
+    display: block;
+}
+
+.page-subscribe img {
+
+}
+
+.page-subscribe input {
+    color: #b1c3ee;
+    border: 1px solid #446cbc;
+    font-size: 14px;
+    font-weight: 400;
+}
 
 .page-subscribe .btn-primary {
     font-size: 14px;
@@ -118,21 +160,44 @@ h1 {
     letter-spacing: 2.8px;
 }
 
-.wrap {
-    max-width: 1100px;
-    display: flex;
-    justify-content: center;
-}
-
 /* STAT */
 .page-stat {
     background-color: #edf6ff;
+    max-height: 542px;
+    text-align: center;
+    padding: 105px 0;
+}
+
+.page-stat h2 span {
+    color: #1085e4;
+    font-size: 16px;
+    font-weight: 800;
+    text-transform: uppercase;
+    display: block;
+    letter-spacing: 3.5px;
+}
+
+.page-stat h2 {
+    color: #192b59;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.page-stat ul li span {
+    color: #bacbdc;
+    font-size: 60px;
+    font-weight: 700;
+    display: block;
 }
 
 .page-stat ul {
     list-style-type: none;
     display: flex;
     justify-content: space-around;
+    color: #1085e4;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 0;
 }
 
 /* COMPANY */
